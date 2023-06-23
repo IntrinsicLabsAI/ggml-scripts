@@ -8,4 +8,4 @@ We might break these rules at some point when it's convenient but not right now.
 
 ### Scripts
 
-- **`ggml_check.py`**: This script accepts on the command line a list of arguments as file paths. For each file it prints out the relevant GGML format and version
+- [`ggml_check.py`](./ggml_check.py): This script accepts on the command line a list of arguments as file paths. For each file it prints out the relevant GGML format and version
