@@ -10,4 +10,4 @@ We might break these rules at some point when it's convenient but not right now.
 
 ### Scripts
 
-- [`ggml_check.py`](./ggml_check.py): This script accepts on the command line a list of arguments as file paths. Has arguments for emitting complete information about a GGML file, including descriptions of all tensors and their types.
+- [`ggml_cat.py`](./ggml_cat.py): This script accepts on the command line a list of arguments as file paths. Has arguments for emitting complete information about a GGML file, including descriptions of all tensors and their types.
